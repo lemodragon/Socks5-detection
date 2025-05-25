@@ -1,3 +1,30 @@
+# Copyright 2024 SOCKS5 Batch Checker
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+"""
+SOCKS5 批量检测工具
+
+一个功能强大的SOCKS5代理批量检测工具，支持协议检测、地理位置查询和结果导出。
+
+主要功能：
+- 批量检测SOCKS5代理可用性
+- TCP/UDP协议支持检测
+- 地理位置信息查询
+- 延迟测试和状态显示
+- 结果导出和复制功能
+"""
+
 import sys
 import time
 import requests
