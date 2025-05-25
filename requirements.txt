@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+requests>=2.25.0
+geoip2>=4.1.0
+pyinstaller>=4.5.0 
